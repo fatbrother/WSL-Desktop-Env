@@ -95,7 +95,7 @@ ZSH安裝
     # key binding
     bindkey '^[[A' history-substring-search-up
     bindkey '^[[B' history-substring-search-down
-    bindkey ',' autosuggest-accept
+    bindkey '^I' autosuggest-accept
 
     # 其他
     zinit load djui/alias-tips
