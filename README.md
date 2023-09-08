@@ -115,5 +115,5 @@ wsl
 <https://x410.dev/cookbook/wsl/enable-systemd-in-wsl2-and-have-the-best-ubuntu-gui-desktop-experience/>
 
 zsh  
-<https://blog.kyomind.tw/ubuntu-zsh-zinit/>
+<https://blog.kyomind.tw/ubuntu-zsh-zinit/>  
 <https://blog.kyomind.tw/powerlevel10k/>
